@@ -1,6 +1,6 @@
 /**
  * @id codeql/custom-queries/redundant-if-statements
- * @name vaishakh's empty blocks
+ * @name If-else empty blocks present
  * @description Find my empty block statements.
  * @kind problem
  * @tags empty
