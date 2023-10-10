@@ -14,6 +14,9 @@ namespace sample1
             Console.WriteLine(password);
             if(word == "hi")
                 return word;
+            if(word == "hi"){
+                
+            }
             return null;
         }
     }
