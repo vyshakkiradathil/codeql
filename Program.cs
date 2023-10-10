@@ -6,6 +6,7 @@ namespace sample1
         {
             Console.WriteLine("Hello, World!");
             String word = FindWord("hello");
+            String word2 = "notused";
             Console.WriteLine(word);
         }
 
