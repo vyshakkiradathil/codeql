@@ -12,4 +12,4 @@ import csharp
 
 from LocalVariable v
 where not exists(v.getAnAccess())
-select v
+select v, "Unused local variable"
