@@ -10,5 +10,5 @@
 import csharp
 
 from ReturnStmt r
-where r.getAnExpr() instanceof NullLiteral
+where r.getExpr() instanceof NullLiteral
 select r
